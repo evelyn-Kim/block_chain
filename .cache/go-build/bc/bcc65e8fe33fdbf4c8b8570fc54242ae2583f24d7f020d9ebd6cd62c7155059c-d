@@ -1,0 +1,6 @@
+./collection.pb.go
+./common.pb.go
+./configtx.pb.go
+./configuration.pb.go
+./ledger.pb.go
+./policies.pb.go

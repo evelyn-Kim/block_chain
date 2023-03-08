@@ -1,0 +1,6 @@
+./box.go
+./env.go
+./file.go
+./packr.go
+./version.go
+./walk.go

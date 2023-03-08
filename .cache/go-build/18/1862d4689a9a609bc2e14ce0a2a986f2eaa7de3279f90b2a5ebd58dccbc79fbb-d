@@ -1,0 +1,4 @@
+./contract.go
+./contract_chaincode.go
+./system_contract.go
+./transaction_context.go

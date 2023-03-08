@@ -1,0 +1,15 @@
+./chaincode.pb.go
+./chaincode_event.pb.go
+./chaincode_shim.pb.go
+./collection.pb.go
+./configuration.pb.go
+./events.pb.go
+./peer.pb.go
+./policy.pb.go
+./proposal.pb.go
+./proposal_response.pb.go
+./query.pb.go
+./resources.pb.go
+./signed_cc_dep_spec.pb.go
+./snapshot.pb.go
+./transaction.pb.go

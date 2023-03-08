@@ -1,0 +1,4 @@
+./a_metadata-packr.go
+./ioutils.go
+./metadata.go
+./schema.go

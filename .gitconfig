@@ -1,0 +1,9 @@
+[user]
+	name = evelyn-kim
+	email = khw0107799@naver.com
+	password = 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
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true

@@ -1,0 +1,3 @@
+./identities.pb.go
+./msp_config.pb.go
+./msp_principal.pb.go
