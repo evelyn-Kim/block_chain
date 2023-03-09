@@ -703,3 +703,145 @@ ls
 .ssh
 cd ~/.ssj
 cd ~/.ssh
+sudo apt install git
+git init
+git clone
+git init
+git log
+git status
+git add .
+fit remote add origin https://github.com/evelyn-Kim/block_chain
+git remote add origin https://github.com/evelyn-Kim/block_chain
+git add .
+git commit -m "first commit"
+git config --global user.email khw0107799@naver.com
+git add .
+git commit -m "first commit"
+git push -u origin master
+git remote add origin master
+git push -u origin master
+git remote add origin https://github.com/evelyn-Kim/block_chain
+git add .
+git commit -m "first commit"
+git add
+git add .
+git commit -m "second commit"
+git commit -a
+git push -u origin master
+git remote -v
+git remote set-url origin https://evelyn-kim@github.com/block_chain/block_chain.git
+git remote -v
+git push -u origin master
+git remote -v
+git remote set-url origin https://github.com/evelyn-Kim/block_chain
+git remote -v
+git push -u origin master
+curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
+git rm --cached ./go1.16.13.linux-amd64.tar.gz
+git lfs track ./go1.16.13.linux-amd64.tar.gz
+fit lfs track "./go1.16.13.linux-amd64.tar.gz"
+git lfs track "./go1.16.13.linux-amd64.tar.gz"
+git lfs track "*.gz"
+cd go1.16.13.linux-amd64.tar.gz
+ls
+git lfs track "./go1.16.13.linux-amd64.tar.gz"
+git reset --hard HEAD
+git log
+git reflog
+git reset --hard 2c55d84e
+ls
+git lfs install
+cd
+;s
+ls
+cd download/
+git lfs install
+cd ..
+sudo apt-get install git-lfs
+cd download/
+git lfs install
+cd ..
+git lfs track "./go1.16.13.linux-amd64.tar.gz"
+git add .
+git commit -m "lfs file1"
+git push origin master
+git lfs track "*.gz"
+git commit -m "lfs file"
+git add .
+git commit -m "lfs file"
+git push -u origin master
+git pull
+git pull origin master
+git pull -u origin master
+git pull origin master
+git remote add origin git@github.com:evelyn-Kim/block_chain.git
+git branch -M main
+git push -u origin main
+git lfs track "*.tar.gz"
+ls -al
+git add .
+git commit -m "lfs-file"
+git push -u origin master
+git pull origin master
+git pull -u origin master
+git push origin master
+git remote add origin git@github.com:evelyn-Kim/block_chain.git
+git branch -M main
+git push -u origin main
+git config
+git lfs locks
+git push -u origin main
+git config --global user.name "evelyn-kim"
+git config --global user.password "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"
+git pull
+git push -u origin main
+git merge
+git checkout master
+git checkout main
+git push -u origin main
+git pull
+git branch -M main
+git push -u origin main
+git lfs push orgin
+git pull orgin
+git pull main
+git lfs pull origin
+git lfs ls-giles
+git lfs ls-files
+git add .
+git commit -m "last lfs"
+git push origin master
+git push origin main
+git push
+git push main
+git brach -M main
+git branch -M main
+git add .
+git commit -m "lfs"
+git add .
+git commit -m "lfs"
+git commit -a
+find . -name '/.git'
+find . -name '.git'
+rm -rf '.git'
+ls
+find . -name '.git'
+cd ./.git
+ls
+find . -name '.git'
+git add .
+cd
+ls
+git add .
+git init
+ls
+cd home
+git add .
+git commit -m "lfs"
+git commit -a
+find ./ -mindepth 2 -name '.git' -prune -exec rm -rf {} +find ./ -mindepth 2 -name '.git' -prune -exec rm -rf {} +
+find ./ -mindepth 2 -name '.git' -prune -exec rm -rf {} +
+git add *
+git status
+git add .
+git commit -m "lfs"
